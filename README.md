@@ -2,7 +2,7 @@
 
 **NatureFirst** is an eco-awareness website designed to promote environmental protection, conservation efforts, and green initiatives. It encourages users to take small actions today to build a greener tomorrow.
 
-🌍 **Live Demo:** [NatureFirst Website](https://apurva-bhoir.github.io/NatureFirst/) 
+🌍 **Live Demo:** [NatureFirst Website](https://apurva-bhoir.github.io/NatureFirst-/) 
 
 ---
 
